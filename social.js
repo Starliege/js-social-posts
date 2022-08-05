@@ -33,7 +33,7 @@ const posts = [
             "image": "https://unsplash.it/300/300?image=10"
         },
         "likes": 120,
-        "created": "09-03-2021"
+        "created": "09-03-2021" 
     },
     {
         "id": 3,
